@@ -1,11 +1,9 @@
-- 👋 Hi, I’m Prafful Ravuri. I have graduated from Indian Institute of Technology Delhi(IITD) in 2021 majoring in Computer Science.
-- I'm currently working as an Applications Engineer at Oracle. We work and develop upon our Fixed Assets Management application packaged in our Financials ERP product.
-- 👀 I’m interested in Network Security, Applied Cryptography and Software Development. I enjoy building latency-sensitive software systems.
-- 📫 You can reach out to me at prafful[dot]ravuri[at]iitdalumni[dot]com
+Hi, I’m Prafful Ravuri! You can find a quick brief about me below -
+- I am a Master's student in Computer Science at University of Freiburg (2025-27)
+- Worked at Oracle as a Sr. Applications Engineer. Developed various business intelligence solutions in the ERP Financial apps suite (2021-25)
+- Bachelor's degree majoring in Computer Science, from Indian Institute of Technology Delhi (2017-2021)
+- My wide range of interests include Deep Learning, Optimization Problems, Physics-constrained ML, Vehicular Security and Software Development
+- I am deeply motivated to build solutions at the intersection of Energy studies and Machine Learning
+- You can reach out to me at prafful[dot]ravuri[at]iitdalumni[dot]com
 
-<!---
-praffulr/praffulr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- 💞️ I’m looking to collaborate on ...
 
---->
